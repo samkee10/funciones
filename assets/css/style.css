@@ -1,0 +1,8 @@
+#ele1{
+    display: flex;
+    height: 300px;
+    font-weight: 900;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center;
+}
